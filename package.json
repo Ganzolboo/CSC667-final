@@ -1,0 +1,26 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "homework 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Miazaki de Moraes",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFSU-CSC-667-867/hw3-mgh3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SFSU-CSC-667-867/hw3-mgh3/issues"
+  },
+  "homepage": "https://github.com/SFSU-CSC-667-867/hw3-mgh3#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3",
+    "react": "^16.8.6",
+    "react-router-dom": "^5.0.0"
+  }
+}
